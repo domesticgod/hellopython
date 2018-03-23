@@ -7,3 +7,4 @@ docker build -t domesticgod/hellopython .
 
 Run
 docker run -it -P --rm domesticgod/hellopython
+ 
